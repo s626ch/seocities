@@ -1,4 +1,5 @@
 <?php
-$QL_SERVER = "enter server address";
-$QL_PORT = "3306"; #should be default, dont change unless you know the server runs on a different port
+$address = "https://test.com/seocities"; #what the default address is (example: https://test.com/seocities
+$QL_SERVER = "localhost"; # dont change if you dont know what you are doing!
+$QL_PORT = "3306"; #dont change if you dont know what you are doing!
 $MAX_FPENTRIES = "10"; #how many sites should be featured on the front page

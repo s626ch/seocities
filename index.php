@@ -1,3 +1,6 @@
+<script src="https://codemirror.net/lib/codemirror.js"></script>
+<link rel="stylesheet" href="https://codemirror.net/lib/codemirror.css">
+<script src="https://codemirror.net/mode/javascript/javascript.js"></script>
 <h1>welcome to seocities!</h1>
 <div id="postBox">
 <form action="post.php" method="post">
@@ -11,7 +14,6 @@
 </table>
 </form>
 </div>
-
 <h1>List of Websites</h1>
 <!--database fetch here, WIP-->
 <?php
