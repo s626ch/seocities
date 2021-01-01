@@ -4,6 +4,7 @@ $postName = htmlspecialchars($_POST["name"]);
 $postText = $_POST["post"];
 $title = strlen($postName);
 $sites = fopen('sites.html', 'a');
+if(strpos($postName, ".") !== false) exit("Your title contains an illegal character.");
 if ($title > 20) exit("Your site name cannot be longer than 20 characters.");
 if ($postName == null || $postText == null) exit("You forgot to input on one of the fields.");
 if (file_exists("./$postName/index.html")) exit ("This site already exists.");
