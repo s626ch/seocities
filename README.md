@@ -11,4 +11,4 @@ currently its not done but it will be finished when it's ready
 # what the fuck is zoey doing with this piece of shit?
 making a betterer™ front-end page, lole
 
-scream at me or hendicted (here)[https://discord.gg/p7fKdbB], or (here)[https://discord.gg/QWvGXng]
+scream at me or hendicted [here](https://discord.gg/p7fKdbB), or [here](https://discord.gg/QWvGXng)
