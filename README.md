@@ -12,3 +12,5 @@ currently its not done but it will be finished when it's ready
 making a betterer™ front-end page, lole
 
 scream at me or hendicted [here](https://discord.gg/p7fKdbB), or [here](https://discord.gg/QWvGXng)
+
+hendicted your code is a wreck what the fuck
